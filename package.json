@@ -1,0 +1,12 @@
+{
+  "name": "@tech-shrimp/package_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "publishConfig": {"@tech-shrimp:registry": "https://npm.pkg.github.com"}
+}
